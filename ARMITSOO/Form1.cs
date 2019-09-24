@@ -15,6 +15,7 @@ namespace ARMITSOO
         public Form1()
         {
             InitializeComponent();
+            // add
         }
 
         private void оПрограммеToolStripMenuItem_Click(object sender, EventArgs e)
